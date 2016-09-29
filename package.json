@@ -1,5 +1,5 @@
 {
-  "name": "mondey",
+  "name": "snoder",
   "version": "1.0.0",
   "description": "node.js爬虫客户端",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AdonRain/mondey.git"
+    "url": "git+https://github.com/AdonRain/snoder.git"
   },
   "keywords": [
     "node",
@@ -18,9 +18,9 @@
   "author": "AdonRain",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AdonRain/mondey/issues"
+    "url": "https://github.com/AdonRain/snoder/issues"
   },
-  "homepage": "https://github.com/AdonRain/mondey#readme",
+  "homepage": "https://github.com/AdonRain/snoder#readme",
   "dependencies": {
     "koa": "^2.0.0"
   }
