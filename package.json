@@ -1,0 +1,27 @@
+{
+  "name": "mondey",
+  "version": "1.0.0",
+  "description": "node.js爬虫客户端",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdonRain/mondey.git"
+  },
+  "keywords": [
+    "node",
+    "crawler",
+    "spider"
+  ],
+  "author": "AdonRain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AdonRain/mondey/issues"
+  },
+  "homepage": "https://github.com/AdonRain/mondey#readme",
+  "dependencies": {
+    "koa": "^2.0.0"
+  }
+}
